@@ -1,6 +1,6 @@
 # Black-box Discrimination Finder (BDF)
 There is a black-box fairness testing method based on shadow models, which contains two different strategis.
-We implement our method as <font color='red'> `BDF_global` </font> and `BDF_local`.
+We implement our method as `BDF_global` <font color='red'> text </font> and `BDF_local`.
 As the same time, we re-implement the AEQUITAS and ADF in `AEQ` and `ADF`.
 All of the above algorithms are placed in the `Algorithms`.
 Black-box Fairness Testing based on Shadow Models
