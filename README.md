@@ -22,6 +22,7 @@ All of the above algorithms are placed in the `Algorithms`.
     - Datasets/
     - Shadowmodels/
     - Targetmodels/
+    - Results/
 ```
 
 ### Dependencies
