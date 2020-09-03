@@ -184,7 +184,7 @@ def Updata(step_attri,step_direc,direc,attri,flag,opt):
         return
 
 
-alter_visit=5000
+alter_visit=50000
 all_visit=[]
 all_dis=[]
 all_visit_label=[]

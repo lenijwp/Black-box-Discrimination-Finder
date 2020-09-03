@@ -313,8 +313,8 @@ def load_data(file_path):
 
 # In[35]:
 
-T_1=time.time()
-alter_visit=3000
+
+alter_visit=50000
 all_visit=[]
 all_visit_label=[]
 all_grads=[]

@@ -558,7 +558,7 @@ def Get_ini_seeds(k):
     return Seeds
 
 T_1=time.time()
-alter_visit = 10000
+alter_visit = 50000
 all_visit = []
 label_all_visit = []
 all_dis = []
