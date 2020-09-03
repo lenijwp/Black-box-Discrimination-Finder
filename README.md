@@ -16,6 +16,6 @@ keras==2.2.4
 ### Demo
 We provide three datasets and the three target models trained separately on them, which are used in our experiments as runnable demos.
 ### Overview of BDF
-![image](https://github.com/lenijwp/Black-box-Discrimination-Finder/blob/master/Overview.pdf)
+![image](https://github.com/lenijwp/Black-box-Discrimination-Finder/blob/master/Overview.png)
 
 
