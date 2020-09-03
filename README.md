@@ -5,10 +5,6 @@ As the same time, we re-implement the AEQUITAS and ADF in `AEQ` and `ADF`.
 All of the above algorithms are placed in the `Algorithms`.
 
 
-### Overview of BDF
-![image](https://github.com/lenijwp/Black-box-Discrimination-Finder/blob/master/Overview.png)
-
-
 ### Structure
 ```
 - Algorithms/                 
