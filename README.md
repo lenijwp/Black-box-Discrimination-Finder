@@ -28,9 +28,7 @@ All of the above algorithms are placed in the `Algorithms`.
 ### Dependencies
 ```
 python==3.6.10
-
 tensorflow==1.12.0
-
 keras==2.2.4
 ```
 
