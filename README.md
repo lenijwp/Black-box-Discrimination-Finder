@@ -1,10 +1,18 @@
 # Black-box Discrimination Finder (BDF)
 The Black-box Discrimination Finder (a.k.a BDF) is a fairness testing tool which only needs to query the target DNN model/system for predicted labels and   generate individual discriminative samples as many as possible. 
+
 As the same time, we also re-implement the AEQUITAS, ADF, and SG, which are previous fairness testing approaches.
+
 All of the above algorithms are placed in the `Algorithms`.
 
 
+
+![OverView](E:\Research\黑盒公平性\Black-box-Discrimination-Finder\OverView.png)
+
+​												         	 	**Fig. Overview of BDF**
+
 ### Structure
+
 ```
 - Algorithms/                 
     - BDF.py            
