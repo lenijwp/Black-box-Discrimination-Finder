@@ -1,6 +1,3 @@
-# !
-# This is the old version. The lastest codes will be updated soon.
-# ！
 # Black-box Discrimination Finder (BDF)
 There is a black-box fairness testing method based on shadow models, which contains two different strategis.
 We implement our method as `BDF_global` and `BDF_local`.
