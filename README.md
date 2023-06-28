@@ -1,5 +1,5 @@
-# Black-box Discrimination Finder (BDF)
-The Black-box Discrimination Finder (a.k.a BDF) is a fairness testing tool which only needs to query the target DNN model/system for predicted labels and   generate individual discriminative samples as many as possible. 
+# Black-box Discrimination Finder (BREAM)
+The Black-box Discrimination Finder (a.k.a BREAM) is a fairness testing tool which only needs to query the target DNN model/system for predicted labels and   generate individual discriminative samples as many as possible. 
 
 As the same time, we also re-implement the AEQUITAS, ADF, and SG, which are previous fairness testing approaches.
 
